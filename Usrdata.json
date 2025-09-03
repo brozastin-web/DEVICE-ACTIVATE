@@ -28,5 +28,11 @@
         "key": "Daya@1234",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5b617deccf694ab6",
+        "key": "Sameer@123",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
