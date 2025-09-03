@@ -46,5 +46,11 @@
         "key": "Banti@1212",
         "expirydate": "01-12-2025",
         "Allowoffline": false
+    },
+    { 
+        "device_id": "a6ebd7ca71edae6a",
+        "key": "9012",
+        "expirydate": "01-12-2025",
+        "Allowoffline": false
     }
 ]
