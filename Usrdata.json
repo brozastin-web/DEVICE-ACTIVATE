@@ -22,5 +22,11 @@
         "key": "Brozastin",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0356103a05cbd84b",
+        "key": "Daya@1234",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
