@@ -14,49 +14,49 @@
     {
         "device_id": "6347d7e01fe538e0",
         "key": "Sanjay@123",
-        "expirydate": "01-10-2025",
+        "expirydate": "30-09-2025",
         "Allowoffline": false
     },   
     {
         "device_id": "0356103a05cbd84b",
         "key": "Daya@1234",
-        "expirydate": "01-10-2025",
+        "expirydate": "30-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "5b617deccf694ab6",
         "key": "Sameer@123",
-        "expirydate": "01-10-2025",
+        "expirydate": "30-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "e6c435a2a0d6b697",
         "key": "Dolly@123",
-        "expirydate": "01-10-2025",
+        "expirydate": "30-09-2025",
         "Allowoffline": false
     },
     { 
         "device_id": "b869e98140a662b7",
         "key": "Ekart@2028",
-        "expirydate": "01-10-2025",
+        "expirydate": "30-09-2025",
         "Allowoffline": false
     },
     { 
         "device_id": "8f17d9be98fdad00",
         "key": "Banti@1212",
-        "expirydate": "01-12-2025",
+        "expirydate": "30-09-2025",
         "Allowoffline": false
     },
     { 
         "device_id": "a6ebd7ca71edae6a",
         "key": "9012",
-        "expirydate": "01-12-2025",
+        "expirydate": "30-09-2025",
         "Allowoffline": false
     },
     { 
         "device_id": "100d30529e3aaf20",
         "key": "Ekart@1212",
-        "expirydate": "01-12-2025",
+        "expirydate": "30-09-2025",
         "Allowoffline": false
     }
 ]
